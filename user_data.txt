@@ -1,0 +1,1 @@
+{"client_id":"e3bbf60e-cd55-46cf-8d47-5a68d983f693","client_secret":"ehRXuj74eglJX2qoWGMWaoMhbosNVh7tmLIqb2aQg3Ul8Zi1ifVdpcM3LWYzojhs","redirect_uri":"https://mihnikm.amocrm.ru/","domain":"mihnikm"}
